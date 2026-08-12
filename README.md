@@ -8,6 +8,6 @@ The python script requires ```bs4```, ```requests```, ```datetime```, and ```jso
 The web client scripts (html, js, css) have been created using Generative AI.
 
 ## Scope for Refinement
-1. ```cleanup(...)``` addresses duplicates serially, based on a ```title, venue, location, date``` hash. This results in duplicates containing less/imprecise information being retained if they appear earlier in the list.
+1. ```cleanup(...)``` addresses duplicates serially, based on a ```title, venue, date``` hash. This results in duplicates containing less/imprecise information being retained if they appear earlier in the list.
 2. Multiple venue options for a listing are not handled during data retrieval. They are managed as exceptions in the web-client where appropriate.
 3. The tool is meant to exhaustively eaggregating listings, including those not monitored by Mumbai Theatre Guide. ```Listings``` and ```Artistes``` classes enable this in principle, however full coverage is yet to be achieved. 
