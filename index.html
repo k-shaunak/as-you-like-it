@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Theatre Events Browser</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="site-header">
+    Web-client implemented for shows in Mumbai.<br>
+    Listings courtesy of <a href="https://www.mumbaitheatreguide.com/">Mumbai Theatre Guide</a>. This project bears no institutional affilliation to the organisation.
+    </header>
+
+
+    <!-- ================================================================
+         FILTER BAR
+         ================================================================ -->
+
+    <section id="filter-bar">
+
+        <button class="filter-button" data-filter="artistes">
+            <span>Artistes</span>
+            <span class="filter-summary"></span>
+            <span class="filter-arrow">⌄</span>
+        </button>
+
+        <button class="filter-button" data-filter="venues">
+            <span>Venues</span>
+            <span class="filter-summary"></span>
+            <span class="filter-arrow">⌄</span>
+        </button>
+
+        <button class="filter-button" data-filter="languages">
+            <span>Languages</span>
+            <span class="filter-summary"></span>
+            <span class="filter-arrow">⌄</span>
+        </button>
+
+        <button class="filter-button" data-filter="dates">
+            <span>Dates</span>
+            <span class="filter-summary"></span>
+            <span class="filter-arrow">⌄</span>
+        </button>
+
+    </section>
+
+
+    <!-- ================================================================
+         FILTER PANEL
+         ================================================================ -->
+
+    <section id="filter-panel">
+
+        <div id="filter-panel-header">
+
+            <h2 id="filter-panel-title"></h2>
+
+            <button id="close-filter" aria-label="Close filter">
+                ×
+            </button>
+
+        </div>
+
+
+        <div id="filter-panel-content">
+
+            <!-- ========================================================
+                 ARTISTES
+                 ======================================================== -->
+
+            <div
+                id="artiste-filter"
+                class="filter-content"
+            >
+
+                <input
+                    id="artiste-search"
+                    class="search"
+                    type="search"
+                    placeholder="Search artistes..."
+                    autocomplete="off"
+                >
+
+                <div
+                    id="artiste-options"
+                    class="options artiste-options"
+                ></div>
+
+            </div>
+
+
+            <!-- ========================================================
+                 VENUES
+                 ======================================================== -->
+
+            <div
+                id="venue-filter"
+                class="filter-content"
+            >
+
+                <div
+                    id="venue-options"
+                    class="options"
+                ></div>
+
+            </div>
+
+
+            <!-- ========================================================
+                 LANGUAGES
+                 ======================================================== -->
+
+            <div
+                id="language-filter"
+                class="filter-content"
+            >
+
+                <div
+                    id="language-options"
+                    class="options"
+                ></div>
+
+            </div>
+
+
+            <!-- ========================================================
+                 DATES
+                 ======================================================== -->
+
+            <div
+                id="date-filter"
+                class="filter-content"
+            >
+
+                <div class="date-fields">
+
+                    <label>
+                        <span>From</span>
+
+                        <input
+                            id="date-from"
+                            type="date"
+                        >
+                    </label>
+
+
+                    <label>
+                        <span>To</span>
+
+                        <input
+                            id="date-to"
+                            type="date"
+                        >
+                    </label>
+
+                </div>
+
+
+                <button
+                    id="clear-dates"
+                    class="secondary-button"
+                >
+                    Clear dates
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================================================================
+         RESULTS HEADER
+         ================================================================ -->
+
+    <div id="results-header">
+
+        <span id="result-count"></span>
+
+        <button id="clear-filters">
+            Clear filters
+        </button>
+
+    </div>
+
+
+    <!-- ================================================================
+         LISTINGS
+         ================================================================ -->
+
+    <main id="listings"></main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
