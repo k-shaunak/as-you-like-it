@@ -1,87 +1,32 @@
 [
   {
-    "title": "AAMNE SAAMNE",
-    "language": "marathi",
+    "title": "RAJADHIRAAJ: LOVE. LIFE. LEELA",
+    "language": "hindi",
     "writer": [
-      "Manav Kaul",
-      "Abhay Bakalkar",
-      "Manish Soaparkar",
-      "Raakant Jadhav",
-      "Kalpita Rane",
-      "Bharat Kurdia"
+      "Vikram Kapadia"
     ],
     "director": [
-      "Rajat Kapoor"
+      "Vikram Kapadia"
     ],
     "cast": [
-      "Vinay Pathak and Rajat Kapoor"
+      "Vikram Kapadia",
+      "Akshay Dutta",
+      "Pallavi Paranjpe",
+      "Amishka Sood",
+      "Kashish Sharma",
+      "Shruti Deshpande",
+      "Pearl Rafael",
+      "Freya Khotari",
+      "Aarohi Sharma",
+      "Aditya Vikram",
+      "Nihar Dhanraj",
+      "Vibhanshu Doshi",
+      "Mohit Singh",
+      "Chirag Katrecha"
     ],
     "artists": [],
-    "venue": "Vishnudas Bhave Hall",
+    "venue": "NMACC - THE GRAND THEATRE",
     "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/aamne-saamne-marathi-play-preview.asp"
-  },
-  {
-    "title": "BHRAMACHA BHOPLA",
-    "language": "marathi",
-    "writer": [
-      "Prahlad Keshav Atre"
-    ],
-    "director": [
-      "Vijay Kenkare"
-    ],
-    "cast": [
-      "Sanjay Narvekar",
-      "Sunil Tawde",
-      "Chetana Bhat",
-      "Shubhankar Tawde",
-      "Kanchan Prakash"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/bhramacha-bhopla-marathi-play-preview.asp"
-  },
-  {
-    "title": "ATA THAMBVAICHA KASA",
-    "language": "marathi",
-    "writer": [
-      "Sandeep Dandavti"
-    ],
-    "director": [
-      "Sandeep Dandavti"
-    ],
-    "cast": [
-      "Girish Oak",
-      "Sukanya Kulkarni",
-      "Akash Patil",
-      "Janavi Panshikar",
-      "Aishwarya Shete"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
       "23-08-2026",
       "24-08-2026",
       "25-08-2026",
@@ -91,742 +36,7 @@
       "29-08-2026",
       "30-08-2026"
     ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/ata-thambvaicha-kasa-marathi-play-preview.asp"
-  },
-  {
-    "title": "KATKON TRIKON AJIT BHURE",
-    "language": "marathi",
-    "writer": [
-      "Dr Vivek Bele"
-    ],
-    "director": [
-      "Ajit Bhure"
-    ],
-    "cast": [
-      "Sharad ponkshe",
-      "Suyash Tilak Priyanka Tendolkar"
-    ],
-    "artists": [],
-    "venue": "Prabodhankar Thackrey Auditorium",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/katkon-trikon-ajit-bhure-marathi-play-preview.asp"
-  },
-  {
-    "title": "ANIMAL (MARATHI)",
-    "language": "marathi",
-    "writer": [
-      "Mahesh Manjrekar"
-    ],
-    "director": [
-      "Mahesh Manjrekar"
-    ],
-    "cast": [
-      "Siddharth Ramchandra Jadhav"
-    ],
-    "artists": [],
-    "venue": "Marathi Sahitya Sangh",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/animal-marathi-marathi-play-preview.asp"
-  },
-  {
-    "title": "SANGA KASA JAGAYCHA",
-    "language": "marathi",
-    "writer": [
-      "Dr. Satyajit Kharkar"
-    ],
-    "director": [
-      "Neeraj Shirvaikar"
-    ],
-    "cast": [
-      "Spruha Joshi",
-      "Swanandi Tikekar",
-      "Nishad Bhoir",
-      "Ameya Barve",
-      "Sagar Athlekar",
-      "Shraddha Pokhrankar"
-    ],
-    "artists": [],
-    "venue": "Mahakavi Kalidas Natya Mandir",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/sanga-kasa-jagaycha-marathi-play-preview.asp"
-  },
-  {
-    "title": "SHIKHANDI- THE STORY OF THE IN-BETWEENS",
-    "language": "english",
-    "writer": [
-      "Faezeh Jalali"
-    ],
-    "director": [
-      "Faezeh Jalali"
-    ],
-    "cast": [
-      "Srishti Shrivastava",
-      "Tushar Pandey",
-      "Junaid Khan",
-      "Meher Acharia-Dar",
-      "Abhishek Saha",
-      "Shubhankar Ekbote",
-      "Akash Ghosalkar and Faezeh Jalali"
-    ],
-    "artists": [],
-    "venue": "NCPA Experimental Theatre",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/shikhandi-the-story-of-in-the-betweens-english-play-preview.asp"
-  },
-  {
-    "title": "ANTAH ASTI PRARAMBH",
-    "language": "hindi",
-    "writer": [
-      "Manav Kaul",
-      "Abhay Bakalkar",
-      "Manish Soaparkar",
-      "Raakant Jadhav",
-      "Kalpita Rane",
-      "Bharat Kurdia"
-    ],
-    "director": [
-      "Ramakant Jadhav",
-      "Jayant Mourya"
-    ],
-    "cast": [],
-    "artists": [],
-    "venue": "Chaubara by Veda Factory",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/antah-asti-prarambh-hindi-play-preview.asp"
-  },
-  {
-    "title": "NOTHING LIKE LEAR",
-    "language": "english",
-    "writer": [],
-    "director": [
-      "Rajat Kapoor"
-    ],
-    "cast": [
-      "Vinay Pathak and Rajat Kapoor"
-    ],
-    "artists": [],
-    "venue": "Prithvi Theatre",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/08-nothing-like-lear-english-play-preview.asp"
-  },
-  {
-    "title": "MAANGU VIS AAPE TRIS JAY DWARKADHISH",
-    "language": "gujarati",
-    "writer": [
-      "Iravati Karnik"
-    ],
-    "director": [
-      "Advait Dadarkar",
-      "Ranjit Patil"
-    ],
-    "cast": [
-      "Priya Bapat",
-      "Umesh Kamat",
-      "Aashutosh Gokhale",
-      "Pallavi Ajay"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026",
-      "30-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/maangu-vis-aape-tris-jay-dwarkadhish-gujarati-play-preview.asp"
-  },
-  {
-    "title": "PANDIT KI DAUD M TAK",
-    "language": "hindi",
-    "writer": [
-      "Ali Mohammad"
-    ],
-    "director": [],
-    "cast": [],
-    "artists": [],
-    "venue": "Chaubara by Veda Factory",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/pandit-ki-daud-m-tak-hindi-play-preview.asp"
-  },
-  {
-    "title": "RAMANIK ROBINHOOD",
-    "language": "gujarati",
-    "writer": [
-      "Dilip Rawal"
-    ],
-    "director": [
-      "Kamlesh Oza"
-    ],
-    "cast": [
-      "Pratap Sachdeo",
-      "Shachi S Joshi",
-      "Rajesh Solanki",
-      "Harshil Rawal",
-      "Achalesh Pandya",
-      "Preyershi Christian"
-    ],
-    "artists": [],
-    "venue": "Tejpal Auditorium",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/ramanik-robinhood-gujarati-play-preview.asp"
-  },
-  {
-    "title": "LIGHTS CAMERA REACTION",
-    "language": "english",
-    "writer": [],
-    "director": [],
-    "cast": [],
-    "artists": [],
-    "venue": "Dorangos Hall 1",
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026",
-      "30-08-2026",
-      "31-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/lights-camera-reaction-english-play-preview.asp"
-  },
-  {
-    "title": "NATAK MAT KAR",
-    "language": "hindi",
-    "writer": [
-      "Piazza Priyam"
-    ],
-    "director": [
-      "Piazza",
-      "Trimala"
-    ],
-    "cast": [
-      "Ajit",
-      "Dilip",
-      "Keshav",
-      "Khusveer",
-      "Kritika",
-      "Piazza",
-      "Shiva Sujit",
-      "Vaibhavi",
-      "Verbina"
-    ],
-    "artists": [],
-    "venue": "Third Bell Studios, Versova",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/natak-mat-kar-hindi-play-preview.asp"
-  },
-  {
-    "title": "SAMYA SAMYA MAIFILIT MAZYA",
-    "language": "marathi",
-    "writer": [
-      "Samir Choughule"
-    ],
-    "director": [],
-    "cast": [
-      "Samir Choughule"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/samya-samya-maifilit-mazya-marathi-play-preview.asp"
-  },
-  {
-    "title": "WANIYA BHAGWAN NA BHANIYA BY MANISH MEHTA",
-    "language": "gujarati",
-    "writer": [
-      "Pankaj Trivedi"
-    ],
-    "director": [
-      "Manish Mehta"
-    ],
-    "cast": [
-      "Hemant Jha",
-      "Manish Mehta",
-      "Nayan Shukla",
-      "Kaushambi Bhatt",
-      "Ishita Kale"
-    ],
-    "artists": [],
-    "venue": "Prabodhankar Thackrey Auditorium",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/waniya-bhagwan-na-bhaniya-by-manish-mehta-gujarati-play-preview.asp"
-  },
-  {
-    "title": "AA VEVAI NUU KAI KEVAI NAI",
-    "language": "gujarati",
-    "writer": [
-      "Pravin Solanki"
-    ],
-    "director": [
-      "Anurag Prapanna"
-    ],
-    "cast": [
-      "Vipul Vithlani",
-      "Deepali Bhuta",
-      "Dev Joshi",
-      "Dhwani Bhatt",
-      "Meet Joshi"
-    ],
-    "artists": [],
-    "venue": "Aspee Auditorium",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/aa-vevai-nuu-kai-kevai-nai-gujarati-play-preview.asp"
-  },
-  {
-    "title": "JAR TAR CHI GOSHTA",
-    "language": "marathi",
-    "writer": [
-      "Iravati Karnik"
-    ],
-    "director": [
-      "Advait Dadarkar",
-      "Ranjit Patil"
-    ],
-    "cast": [
-      "Priya Bapat",
-      "Umesh Kamat",
-      "Aashutosh Gokhale",
-      "Pallavi Ajay"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/jar-tar-chi-goshta-marathi-play-preview.asp"
-  },
-  {
-    "title": "MAKADCHALE",
-    "language": "marathi",
-    "writer": [
-      "Prashant Nigade"
-    ],
-    "director": [
-      "Prashant Nigade"
-    ],
-    "cast": [
-      "Prashant Nigade",
-      "Shraddha Shitole",
-      "Omkar Teli",
-      "Rupesh Jagtap",
-      "Riteshsingh Bayas",
-      "Rakesh Shirke",
-      "Shruti Hhaldankar",
-      "Riya Satam",
-      "Prajyot Devale"
-    ],
-    "artists": [],
-    "venue": "Shivaji Mandir",
-    "date": [
-      "16-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/makadchale-marathi-play-preview.asp"
-  },
-  {
-    "title": "CUCKOO + NAASHTA",
-    "language": "english",
-    "writer": [],
-    "director": [],
-    "cast": [],
-    "artists": [],
-    "venue": "Dorangos Hall 1",
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026",
-      "30-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/cuckoo-naashta-english-play-preview.asp"
-  },
-  {
-    "title": "GOOD MORNING MUMBAI",
-    "language": "english",
-    "writer": [],
-    "director": [],
-    "cast": [],
-    "artists": [],
-    "venue": "Dorangos Hall 1",
-    "date": [
-      "16-08-2026",
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026",
-      "30-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/good-morning-mumbai-english-play-preview.asp"
-  },
-  {
-    "title": "KARUNASHATAKE",
-    "language": "marathi",
-    "writer": [
-      "Prajakt Deshmukh"
-    ],
-    "director": [
-      "Prajakt Deshmukh"
-    ],
-    "cast": [
-      "Geetanjali Kulkarni",
-      "Parna Pethe",
-      "Kalyani Mule",
-      "Kiran Khoje",
-      "Vinayak Chavan",
-      "Ketki Saraf",
-      "Madhuri Bharti and Pratiksha Khasnis."
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "17-08-2026",
-      "18-08-2026",
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/karunashatake-marathi-play-preview.asp"
-  },
-  {
-    "title": "ASYMPTOMATIC",
-    "language": "english",
-    "writer": [],
-    "director": [],
-    "cast": [
-      "Abhay Mahajan"
-    ],
-    "artists": [],
-    "venue": "NCPA Experimental Theatre",
-    "date": [
-      "18-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/asymptomatic-english-play-preview.asp"
-  },
-  {
-    "title": "SISSY",
-    "language": "english",
-    "writer": [
-      "Dhrreti Bhatt"
-    ],
-    "director": [
-      "Dhrreti Bhatt"
-    ],
-    "cast": [
-      "Akarsh Khurana and Dhrreti Bhatt"
-    ],
-    "artists": [],
-    "venue": "Rangshila Theatre",
-    "date": [
-      "18-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/sissy-english-play-preview.asp"
-  },
-  {
-    "title": "TILLU KI DULHANIYA",
-    "language": "hindi",
-    "writer": [
-      "K. P. Saxena"
-    ],
-    "director": [
-      "Om Katare"
-    ],
-    "cast": [
-      "Om katare",
-      "Devika Jana",
-      "Radha Bhardwaj",
-      "Mukesh Yadav",
-      "Pooja Jangir",
-      "Rhythm Mohad",
-      "Dharmendra Kumar"
-    ],
-    "artists": [],
-    "venue": "Prithvi Theatre",
-    "date": [
-      "18-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/tillu-ki-dulhaniya-hindi-play-preview.asp"
-  },
-  {
-    "title": "LAGNA PANCHAMI",
-    "language": "marathi",
-    "writer": [
-      "Madhugandha Kulkarni"
-    ],
-    "director": [
-      "Nipun Dharmadhikari"
-    ],
-    "cast": [
-      "Swapnil Joshi",
-      "Amruta Khanvilkar",
-      "Sunil Abhyankar"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026",
-      "30-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/lagna-panchami-marathi-play-preview.asp"
-  },
-  {
-    "title": "JEENE BHI DO YAARO",
-    "language": "hindi",
-    "writer": [
-      "Om Katare"
-    ],
-    "director": [
-      "Om Katare"
-    ],
-    "cast": [
-      "Om katare",
-      "Prashant Updhayay",
-      "Sailee Gaikwad",
-      "Kanupriya Sharma",
-      "Hitesh bhatia"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "19-08-2026",
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/06_preview_jeeney_bhi_do_yaaron.asp"
-  },
-  {
-    "title": "BADALON KA SHEHER",
-    "language": "hindi",
-    "writer": [
-      "Shruti Mishra"
-    ],
-    "director": [
-      "Manish Chaudhari"
-    ],
-    "cast": [
-      "Aarya Tandon",
-      "Akhshay Gandhi",
-      "Shrey Sharma",
-      "Shruti Mishra"
-    ],
-    "artists": [],
-    "venue": "Rangshila Theatre",
-    "date": [
-      "19-08-2026",
-      "20-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/badalon-ka-sheher-hindi-play-preview.asp"
-  },
-  {
-    "title": "EKADA PAHAVA KARUN",
-    "language": "marathi",
-    "writer": [
-      "Ratnakar Matkari"
-    ],
-    "director": [
-      "Vijay Kenkre"
-    ],
-    "cast": [
-      "Anand Ingale",
-      "Vaibhav Mangle",
-      "Bhargavi Chirmule",
-      "Bhushan Patil"
-    ],
-    "artists": [],
-    "venue": "Prabodhankar Thackrey Auditorium",
-    "date": [
-      "20-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/ekada-pahava-karun-marathi-play-preview.asp"
-  },
-  {
-    "title": "PESTONJI PAPAU",
-    "language": "gujarati",
-    "writer": [
-      "Huzan Wadia"
-    ],
-    "director": [
-      "Huzan Wadia"
-    ],
-    "cast": [
-      "Huzan Wadia",
-      "Naznin Govadia",
-      "Percy Bharucha",
-      "Behnaaz Mody",
-      "Dogdau Mehta",
-      "Kaizeen Mehta",
-      "Karishma Reporter",
-      "Pazaand Mehershahi",
-      "Shanaya Patrawalla",
-      "Yehaan Marker",
-      "Jouyan Gazder",
-      "Meiron Damania",
-      "Rumy Zarir"
-    ],
-    "artists": [],
-    "venue": "Sophia Auditorium",
-    "date": [
-      "20-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/pestonji-papau-gujarati-play-preview.asp"
-  },
-  {
-    "title": "BICHARO BOMSI",
-    "language": "gujarati",
-    "writer": [
-      "Homi Tavadia"
-    ],
-    "director": [
-      "Cyrus Dastoor"
-    ],
-    "cast": [
-      "Pearl Mistry",
-      "Kayazad Tampal",
-      "Parin Shah",
-      "Shilpa Joshi",
-      "Pravin Vyas",
-      "Hemant Bhatt",
-      "Farida Bhathena",
-      "Amita Patel",
-      "Ramakant Bhagat",
-      "Cyrus Dastoor",
-      "Gunvant Surani",
-      "Bharti Gopiyani"
-    ],
-    "artists": [],
-    "venue": "Tejpal Auditorium",
-    "date": [
-      "20-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/bicharo-bomsi-gujarati-play-preview.asp"
-  },
-  {
-    "title": "HADH KAR DI AAPNE",
-    "language": "hindi",
-    "writer": [
-      "Mir Muneer"
-    ],
-    "director": [
-      "Om Katare"
-    ],
-    "cast": [
-      "Om katare",
-      "Damini Shetty",
-      "Parth Viradia",
-      "Ashok Sharma",
-      "Sahil Ravi",
-      "Pooja Jangir",
-      "Paromita Chatterjee",
-      "Ishaan Grover"
-    ],
-    "artists": [],
-    "venue": "Prithvi Theatre",
-    "date": [
-      "20-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/hkda.asp"
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/rajadhiraaj-love-life-leela-hindi-play-preview.asp"
   },
   {
     "title": "MAJJA TANTRA",
@@ -849,9 +59,6 @@
     "artists": [],
     "venue": null,
     "date": [
-      "20-08-2026",
-      "21-08-2026",
-      "22-08-2026",
       "23-08-2026",
       "24-08-2026",
       "25-08-2026",
@@ -871,76 +78,27 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/majja-tantra-gujarati-play-preview.asp"
   },
   {
-    "title": "LAVANI KE RANG",
-    "language": "hindi",
+    "title": "WANIYA BHAGWAN NA BHANIYA BY MANISH MEHTA",
+    "language": "gujarati",
     "writer": [
-      "Bhushan Korgaonkar"
+      "Pankaj Trivedi"
     ],
     "director": [
-      "Bhushan Korgaonkar"
+      "Manish Mehta"
     ],
     "cast": [
-      "Pushpa Satarkar",
-      "Gauri Jadhav",
-      "Latabai Waikar",
-      "Shraddha Nagarkar",
-      "Chandrakant Lakhe",
-      "Vinayak Javale",
-      "Sumit Kudalkar",
-      "Akshay Malvankar and Shakuntalabai Nagarkar"
+      "Hemant Jha",
+      "Manish Mehta",
+      "Nayan Shukla",
+      "Kaushambi Bhatt",
+      "Ishita Kale"
     ],
     "artists": [],
-    "venue": "Prithvi Theatre",
+    "venue": "Bhartiya Vidhya Bhavan",
     "date": [
-      "21-08-2026"
+      "23-08-2026"
     ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/lavani-ke-rang-hindi-play-preview.asp"
-  },
-  {
-    "title": "KAALACHYA PANJATUN",
-    "language": "marathi",
-    "writer": [
-      "Netaji Dada Bhoir"
-    ],
-    "director": [
-      "Varun Bhoir"
-    ],
-    "cast": [
-      "Amol Thorat",
-      "Manthan Borade",
-      "Kiran Bhoir",
-      "Bhushan Gaikwad",
-      "Sanjay Gangawane",
-      "Karan Gaikwad",
-      "Rohan Patil",
-      "Abhijit Kale",
-      "Sunil Gangu..."
-    ],
-    "artists": [],
-    "venue": "Acharya Atre Natya Rangmandir",
-    "date": [
-      "21-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/kaalachya-panjatun-marathi-play-preview.asp"
-  },
-  {
-    "title": "BACCHON KI KAHANI SIRF BADON KE LIYE",
-    "language": "hindi",
-    "writer": [
-      "Kshitij Sharma"
-    ],
-    "director": [
-      "Kshitij Sharma"
-    ],
-    "cast": [
-      "Kshitij Sharma"
-    ],
-    "artists": [],
-    "venue": "Artisan Coterie",
-    "date": [
-      "22-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/bacchon-ki-kahani-sirf-badon-ke-liye-hindi-play-preview.asp"
+    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/waniya-bhagwan-na-bhaniya-by-manish-mehta-gujarati-play-preview.asp"
   },
   {
     "title": "MARATHI BANA",
@@ -955,38 +113,149 @@
       "Aishwarya Narkar"
     ],
     "artists": [],
-    "venue": null,
+    "venue": "Prabodhankar Thackrey Auditorium",
     "date": [
-      "22-08-2026",
       "23-08-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/marathi/marathi-bana-marathi-play-preview.asp"
   },
   {
-    "title": "SUBHEDAR GUEST HOUSE",
+    "title": "JAR TAR CHI GOSHTA",
     "language": "marathi",
     "writer": [
-      "Shirish Dekhane"
+      "Iravati Karnik"
     ],
     "director": [
-      "Vijay Kenkre"
+      "Advait Dadarkar",
+      "Ranjit Patil"
     ],
     "cast": [
-      "Saurabh Gokhale",
-      "Angad Mhaskar",
-      "Mrunmayee Gondhalekar",
-      "Vinita Date",
-      "Rohit Deshmukh",
-      "Sana Kulkarni",
-      "Anand Patil",
-      "Shantanu Moghe"
+      "Priya Bapat",
+      "Umesh Kamat",
+      "Aashutosh Gokhale",
+      "Pallavi Ajay"
     ],
     "artists": [],
-    "venue": "Prabodhankar Thackrey Auditorium",
+    "venue": null,
     "date": [
-      "22-08-2026"
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026",
+      "31-08-2026",
+      "01-09-2026",
+      "02-09-2026",
+      "03-09-2026",
+      "04-09-2026",
+      "05-09-2026",
+      "06-09-2026",
+      "07-09-2026"
     ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/subhedar-guest-house-marathi-play-preview.asp"
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/jar-tar-chi-goshta-marathi-play-preview.asp"
+  },
+  {
+    "title": "KARUNASHATAKE",
+    "language": "marathi",
+    "writer": [
+      "Prajakt Deshmukh"
+    ],
+    "director": [
+      "Prajakt Deshmukh"
+    ],
+    "cast": [
+      "Geetanjali Kulkarni",
+      "Parna Pethe",
+      "Kalyani Mule",
+      "Kiran Khoje",
+      "Vinayak Chavan",
+      "Ketki Saraf",
+      "Madhuri Bharti and Pratiksha Khasnis."
+    ],
+    "artists": [],
+    "venue": "Vishnudas Bhave Hall",
+    "date": [
+      "23-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/karunashatake-marathi-play-preview.asp"
+  },
+  {
+    "title": "HI DOSTI TUTAYCHI NAAY",
+    "language": "marathi",
+    "writer": [
+      "Onkar Gokhale"
+    ],
+    "director": [
+      "Suraj Parasnis"
+    ],
+    "cast": [
+      "Chinmayee Sumeet",
+      "Sumeet Raghavan",
+      "Shubhankar Ekbote",
+      "Amruta Bane"
+    ],
+    "artists": [],
+    "venue": "Dinanath Natyagriha",
+    "date": [
+      "23-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/hi-dosti-tutaychi-naay-marathi-play-preview.asp"
+  },
+  {
+    "title": "THE WIZARD OF OZ",
+    "language": "english",
+    "writer": [],
+    "director": [
+      "Vishaal Asrani and Jiji Subi"
+    ],
+    "cast": [
+      "Aneesha Shah",
+      "Neelima Mehra",
+      "Bhavpreet Singh",
+      "Anuja Sanghvi",
+      "Avantika Kampani",
+      "Saniya Akre",
+      "Ananya Panchal"
+    ],
+    "artists": [],
+    "venue": "Royal Opera House Theater",
+    "date": [
+      "23-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/the-wizard-of-oz-english-play-preview.asp"
+  },
+  {
+    "title": "ATA THAMBVAICHA KASA",
+    "language": "marathi",
+    "writer": [
+      "Sandeep Dandavti"
+    ],
+    "director": [
+      "Sandeep Dandavti"
+    ],
+    "cast": [
+      "Girish Oak",
+      "Sukanya Kulkarni",
+      "Akash Patil",
+      "Janavi Panshikar",
+      "Aishwarya Shete"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/ata-thambvaicha-kasa-marathi-play-preview.asp"
   },
   {
     "title": "THE GREATEST SHOW ON EARTH",
@@ -1016,143 +285,30 @@
     "artists": [],
     "venue": "Prithvi Theatre",
     "date": [
-      "22-08-2026",
       "23-08-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/english/the-greatest-show-on-earth-english-play-preview.asp"
   },
   {
-    "title": "ZEN KATHA",
-    "language": "english",
-    "writer": [
-      "Pratap Sharma"
-    ],
-    "director": [
-      "Lillete Dubey"
-    ],
-    "cast": [
-      "Rajeev Siddhartha",
-      "Ira Dubey",
-      "Vikrant Chaturvedi",
-      "Asif Ali Beg",
-      "Joy Sengupta",
-      "Varun Narayan",
-      "Pihu Sand",
-      "Prince Ali"
-    ],
-    "artists": [],
-    "venue": "Aditya Birla Theatre, Mumbai",
-    "date": [
-      "22-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/zenkatha.asp"
-  },
-  {
-    "title": "FAREWELL AN ENTROPY OF SEPARATION",
-    "language": "hindi",
-    "writer": [
-      "Kshitij Sharma"
-    ],
-    "director": [
-      "Kshitij Sharma"
-    ],
-    "cast": [],
-    "artists": [],
-    "venue": "Artisan Coterie",
-    "date": [
-      "22-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/farewell-an-entropy-of-separation-hindi-play-preview.asp"
-  },
-  {
-    "title": "BHIRRRR",
-    "language": "marathi",
-    "writer": [
-      "Mayuri Ravindra"
-    ],
-    "director": [
-      "Mayuri Ravindra"
-    ],
-    "cast": [],
-    "artists": [],
-    "venue": "NMACC - THE CUBE",
-    "date": [
-      "22-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/bhirrrr-marathi-play-preview.asp"
-  },
-  {
-    "title": "SANGEET SANGE BAHINA",
-    "language": "marathi",
-    "writer": [
-      "Chandrashekhar Pachpande"
-    ],
-    "director": [
-      "Kalyani Salunke"
-    ],
-    "cast": [
-      "Kalyani Salunke",
-      "Manisha Kolhe",
-      "Bharati Bonde",
-      "Vandana Patil",
-      "Mrudula Chaudhari",
-      "Tanushree Sawant",
-      "Sharmila Jawale",
-      "Kumud Patil",
-      "Rajashree Sarode",
-      "Shruti Bhide",
-      "Prajakta Harwane",
-      "Shrey Panchal",
-      "Swarang Bhide",
-      "Tithi Harwande"
-    ],
-    "artists": [],
-    "venue": null,
-    "date": [
-      "22-08-2026",
-      "23-08-2026",
-      "24-08-2026",
-      "25-08-2026",
-      "26-08-2026",
-      "27-08-2026",
-      "28-08-2026",
-      "29-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/sangeet-sange-bahina-marathi-play-preview.asp"
-  },
-  {
-    "title": "THE WIZARD OF OZ",
-    "language": "english",
-    "writer": [],
-    "director": [
-      "Vishaal Asrani and Jiji Subi"
-    ],
-    "cast": [
-      "Aneesha Shah",
-      "Neelima Mehra",
-      "Bhavpreet Singh",
-      "Anuja Sanghvi",
-      "Avantika Kampani",
-      "Saniya Akre",
-      "Ananya Panchal"
-    ],
-    "artists": [],
-    "venue": "Royal Opera House Theater",
-    "date": [
-      "23-08-2026"
-    ],
-    "info": "https://www.mumbaitheatreguide.com/dramas/english/the-wizard-of-oz-english-play-preview.asp"
-  },
-  {
     "title": "DEEWANA",
     "language": "hindi",
     "writer": [
-      "Vikash Raj Mohla"
+      "Vinod Sarvaiya"
     ],
     "director": [
-      "Vikash Raj Mohla"
+      "Sanjay Goradia"
     ],
-    "cast": [],
+    "cast": [
+      "Sanjay Goradia",
+      "Nilesh Pandya",
+      "Pratik Dave",
+      "Disha Patel",
+      "Sagar Raval",
+      "Mitali Goradia",
+      "Arpit Sheth",
+      "Khushi Shah",
+      "Saumya Gala"
+    ],
     "artists": [],
     "venue": "Nritya Shakti Studio",
     "date": [
@@ -1247,6 +403,80 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/aadab-main-premchand-hoon-hindi-play-preview.asp"
   },
   {
+    "title": "CHALTI KAA NAAM GAADI RELOADED",
+    "language": "gujarati",
+    "writer": [
+      "Dilip Rawal"
+    ],
+    "director": [
+      "Kiran Bhatt"
+    ],
+    "cast": [
+      "Sanat Vyas",
+      "Sangita Joshi",
+      "Shraddha Suthar",
+      "Jhanvi Mistry",
+      "Nandani Shah",
+      "Pragati",
+      "Deep Karnik",
+      "Ojas Pandya",
+      "Jay Dave",
+      "Devang Bhatt",
+      "Jigish Vyas"
+    ],
+    "artists": [],
+    "venue": "Tejpal Auditorium",
+    "date": [
+      "23-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/chalti-kaa-naam-gaadi-reloaded-gujarati-play-preview.asp"
+  },
+  {
+    "title": "RAMANIK ROBINHOOD",
+    "language": "gujarati",
+    "writer": [
+      "Dilip Rawal"
+    ],
+    "director": [
+      "Kamlesh Oza"
+    ],
+    "cast": [
+      "Pratap Sachdeo",
+      "Shachi S Joshi",
+      "Rajesh Solanki",
+      "Harshil Rawal",
+      "Achalesh Pandya",
+      "Preyershi Christian"
+    ],
+    "artists": [],
+    "venue": "Bhartiya Vidhya Bhavan",
+    "date": [
+      "23-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/ramanik-robinhood-gujarati-play-preview.asp"
+  },
+  {
+    "title": "LIGHTS CAMERA REACTION",
+    "language": "english",
+    "writer": [],
+    "director": [],
+    "cast": [],
+    "artists": [],
+    "venue": "Dorangos Hall 1",
+    "date": [
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026",
+      "31-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/lights-camera-reaction-english-play-preview.asp"
+  },
+  {
     "title": "TATHASTU A GUJARATI PLAY",
     "language": "gujarati",
     "writer": [
@@ -1265,11 +495,181 @@
       "Tanisha Shah"
     ],
     "artists": [],
-    "venue": "Prabodhankar Thackrey Auditorium",
+    "venue": null,
     "date": [
-      "23-08-2026"
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026",
+      "31-08-2026",
+      "01-09-2026",
+      "02-09-2026",
+      "03-09-2026",
+      "04-09-2026",
+      "05-09-2026",
+      "06-09-2026",
+      "07-09-2026",
+      "08-09-2026",
+      "09-09-2026",
+      "10-09-2026",
+      "11-09-2026",
+      "12-09-2026",
+      "13-09-2026",
+      "14-09-2026",
+      "15-09-2026",
+      "16-09-2026",
+      "17-09-2026",
+      "18-09-2026",
+      "19-09-2026",
+      "20-09-2026",
+      "21-09-2026",
+      "22-09-2026",
+      "23-09-2026",
+      "24-09-2026",
+      "25-09-2026",
+      "26-09-2026",
+      "27-09-2026",
+      "28-09-2026",
+      "29-09-2026",
+      "30-09-2026",
+      "01-10-2026",
+      "02-10-2026",
+      "03-10-2026",
+      "04-10-2026",
+      "05-10-2026",
+      "06-10-2026",
+      "07-10-2026",
+      "08-10-2026",
+      "09-10-2026",
+      "10-10-2026",
+      "11-10-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/tathastu-a-gujarati-play-gujarati-play-preview.asp"
+  },
+  {
+    "title": "MAANGU VIS AAPE TRIS JAY DWARKADHISH",
+    "language": "gujarati",
+    "writer": [
+      "Vinod Sarvaiya"
+    ],
+    "director": [
+      "Sanjay Goradia"
+    ],
+    "cast": [
+      "Sanjay Goradia",
+      "Nilesh Pandya",
+      "Pratik Dave",
+      "Disha Patel",
+      "Sagar Raval",
+      "Mitali Goradia",
+      "Arpit Sheth",
+      "Khushi Shah",
+      "Saumya Gala"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/maangu-vis-aape-tris-jay-dwarkadhish-gujarati-play-preview.asp"
+  },
+  {
+    "title": "SAMYA SAMYA MAIFILIT MAZYA",
+    "language": "marathi",
+    "writer": [
+      "Samir Choughule"
+    ],
+    "director": [],
+    "cast": [
+      "Samir Choughule"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/samya-samya-maifilit-mazya-marathi-play-preview.asp"
+  },
+  {
+    "title": "CUCKOO + NAASHTA",
+    "language": "english",
+    "writer": [],
+    "director": [],
+    "cast": [],
+    "artists": [],
+    "venue": "Dorangos Hall 1",
+    "date": [
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/cuckoo-naashta-english-play-preview.asp"
+  },
+  {
+    "title": "GOOD MORNING MUMBAI",
+    "language": "english",
+    "writer": [],
+    "director": [],
+    "cast": [],
+    "artists": [],
+    "venue": "Dorangos Hall 1",
+    "date": [
+      "23-08-2026",
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/good-morning-mumbai-english-play-preview.asp"
+  },
+  {
+    "title": "KATKON TRIKON AJIT BHURE",
+    "language": "marathi",
+    "writer": [
+      "Dr Vivek Bele"
+    ],
+    "director": [
+      "Ajit Bhure"
+    ],
+    "cast": [
+      "Sharad ponkshe",
+      "Suyash Tilak Priyanka Tendolkar"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "24-08-2026",
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/katkon-trikon-ajit-bhure-marathi-play-preview.asp"
   },
   {
     "title": "YADA KADACHIT",
@@ -1311,6 +711,59 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/english/the-queen-by-daniel-owen-dsouza-english-play-preview.asp"
   },
   {
+    "title": "SHIKAYLA GELO EK",
+    "language": "marathi",
+    "writer": [
+      "Advaid Dadarkar"
+    ],
+    "director": [
+      "Advaid Dadarkar"
+    ],
+    "cast": [
+      "Prashant Damle",
+      "Hrishikesh Shelar",
+      "Sushil Inamdar",
+      "Anagha Bhagre",
+      "Samruddhi Mohrir",
+      "Chinmay Mahurkar"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/shikayla-gelo-ek-marathi-play-preview.asp"
+  },
+  {
+    "title": "BHRAMACHA BHOPLA",
+    "language": "marathi",
+    "writer": [
+      "Prahlad Keshav Atre"
+    ],
+    "director": [
+      "Vijay Kenkare"
+    ],
+    "cast": [
+      "Sanjay Narvekar",
+      "Sunil Tawde",
+      "Chetana Bhat",
+      "Shubhankar Tawde",
+      "Kanchan Prakash"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "25-08-2026",
+      "26-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/bhramacha-bhopla-marathi-play-preview.asp"
+  },
+  {
     "title": "AAMCHYA PIDHICHI GOSHTACH VEGALI",
     "language": "marathi",
     "writer": [
@@ -1328,11 +781,80 @@
       "Shantanu Thawali"
     ],
     "artists": [],
-    "venue": "Ravindra Natya Mandir",
+    "venue": null,
     "date": [
-      "25-08-2026"
+      "25-08-2026",
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026",
+      "31-08-2026",
+      "01-09-2026",
+      "02-09-2026",
+      "03-09-2026",
+      "04-09-2026",
+      "05-09-2026",
+      "06-09-2026",
+      "07-09-2026",
+      "08-09-2026",
+      "09-09-2026",
+      "10-09-2026",
+      "11-09-2026",
+      "12-09-2026",
+      "13-09-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/marathi/aamchya-pidhichi-goshtach-vegali-marathi-play-preview.asp"
+  },
+  {
+    "title": "BHOOL BHULAIYAA",
+    "language": "marathi",
+    "writer": [],
+    "director": [
+      "Kumar Sohani"
+    ],
+    "cast": [
+      "Priya Berde",
+      "Amir Tadwalkar",
+      "Aarti Solanki"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/bhool-bhulaiyaa-marathi-play-preview.asp"
+  },
+  {
+    "title": "ALBATTYA GALBATTYA",
+    "language": "marathi",
+    "writer": [],
+    "director": [
+      "Chinmay Mandelkar"
+    ],
+    "cast": [
+      "Vaibhav Mangle"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "26-08-2026",
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026",
+      "31-08-2026",
+      "01-09-2026",
+      "02-09-2026",
+      "03-09-2026",
+      "04-09-2026",
+      "05-09-2026",
+      "06-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/albattya-galbattya-marathi-play-preview.asp"
   },
   {
     "title": "SIACHEN",
@@ -1406,6 +928,57 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/marathi/pudhchya-shukrawari-saat-waajtaa-marathi-play-preview.asp"
   },
   {
+    "title": "AAMNE SAAMNE",
+    "language": "marathi",
+    "writer": [
+      "Neeraj Shirvaikar"
+    ],
+    "director": [
+      "Neeraj Shirvaikar"
+    ],
+    "cast": [
+      "Mangesh Kadam",
+      "Leena Bhagwat",
+      "Rohan Gujar",
+      "Madhura Deshpande"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "27-08-2026",
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/aamne-saamne-marathi-play-preview.asp"
+  },
+  {
+    "title": "GAMTA NO KARIYE GULAL",
+    "language": "gujarati",
+    "writer": [
+      "Shahbuddin Rathod",
+      "P L Deshpande",
+      "Sanjay Chhele",
+      "Devanshu Pandit"
+    ],
+    "director": [
+      "Huseini Dawawala"
+    ],
+    "cast": [
+      "Preeti Jariwala",
+      "Mehul Buch",
+      "Kalpana Manoj Shah",
+      "Rajan Sorathiya",
+      "Harsh Joshi"
+    ],
+    "artists": [],
+    "venue": "NCPA Dance Theatre Godrej",
+    "date": [
+      "27-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/gamta-no-kariye-gulal-gujarati-play-preview.asp"
+  },
+  {
     "title": "STUCK",
     "language": "english",
     "writer": [
@@ -1458,6 +1031,41 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/o-gaanewali-hindi-play-preview.asp"
   },
   {
+    "title": "ANIMAL (MARATHI)",
+    "language": "marathi",
+    "writer": [
+      "Mahesh Manjrekar"
+    ],
+    "director": [
+      "Mahesh Manjrekar"
+    ],
+    "cast": [
+      "Siddharth Ramchandra Jadhav"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026",
+      "31-08-2026",
+      "01-09-2026",
+      "02-09-2026",
+      "03-09-2026",
+      "04-09-2026",
+      "05-09-2026",
+      "06-09-2026",
+      "07-09-2026",
+      "08-09-2026",
+      "09-09-2026",
+      "10-09-2026",
+      "11-09-2026",
+      "12-09-2026",
+      "13-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/animal-marathi-marathi-play-preview.asp"
+  },
+  {
     "title": "305 GALLI MANTOLA",
     "language": "hindi",
     "writer": [
@@ -1483,6 +1091,28 @@
       "30-08-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/305-galli-mantola-hindi-play-preview.asp"
+  },
+  {
+    "title": "DREAMS BY PANKAJ KAPUR",
+    "language": "hindi",
+    "writer": [
+      "Pankaj Kapur"
+    ],
+    "director": [
+      "Pankaj Kapur"
+    ],
+    "cast": [
+      "Pankaj Kapur",
+      "Supriya Pathak"
+    ],
+    "artists": [],
+    "venue": "Rangshila Theatre",
+    "date": [
+      "28-08-2026",
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/dreams-by-pankaj-kapur-hindi-play-preview.asp"
   },
   {
     "title": "DREAMZ",
@@ -1531,6 +1161,162 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/baaghi-albele-hindi-play-preview.asp"
   },
   {
+    "title": "DOSTICHA DUKAAN",
+    "language": "marathi",
+    "writer": [
+      "Deep Dabare"
+    ],
+    "director": [
+      "Siddhesh Dhuri"
+    ],
+    "cast": [
+      "Nikhil Pujari",
+      "Eesha Kiran",
+      "Siddhesh Dhuri",
+      "Swapnil Bhave",
+      "Aditya Marathe",
+      "Deep Dabare"
+    ],
+    "artists": [],
+    "venue": "Adya Krantiveer Vasudev Balwant Phadke",
+    "date": [
+      "28-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/dosticha-dukaan-marathi-play-preview.asp"
+  },
+  {
+    "title": "PATRA PATRI",
+    "language": "marathi",
+    "writer": [],
+    "director": [
+      "Vijay Kenkre"
+    ],
+    "cast": [
+      "Dilip Prabhavalkar",
+      "Vijay Kenkre"
+    ],
+    "artists": [],
+    "venue": "Dinanath Natyagriha",
+    "date": [
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/patra-patri-marathi-play-preview.asp"
+  },
+  {
+    "title": "THARLAY FOREVER",
+    "language": "marathi",
+    "writer": [
+      "Akshata Acharya"
+    ],
+    "director": [
+      "Rishi Manohar"
+    ],
+    "cast": [
+      "Hruta Durgule",
+      "Kapil Redekar",
+      "Akshata Acharya"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/tharlay-forever-marathi-play-preview.asp"
+  },
+  {
+    "title": "LAGNA PANCHAMI",
+    "language": "marathi",
+    "writer": [
+      "Madhugandha Kulkarni"
+    ],
+    "director": [
+      "Nipun Dharmadhikari"
+    ],
+    "cast": [
+      "Swapnil Joshi",
+      "Amruta Khanvilkar",
+      "Sunil Abhyankar"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/lagna-panchami-marathi-play-preview.asp"
+  },
+  {
+    "title": "SANGEET SANGE BAHINA",
+    "language": "marathi",
+    "writer": [
+      "Chandrashekhar Pachpande"
+    ],
+    "director": [
+      "Kalyani Salunke"
+    ],
+    "cast": [
+      "Kalyani Salunke",
+      "Manisha Kolhe",
+      "Bharati Bonde",
+      "Vandana Patil",
+      "Mrudula Chaudhari",
+      "Tanushree Sawant",
+      "Sharmila Jawale",
+      "Kumud Patil",
+      "Rajashree Sarode",
+      "Shruti Bhide",
+      "Prajakta Harwane",
+      "Shrey Panchal",
+      "Swarang Bhide",
+      "Tithi Harwande"
+    ],
+    "artists": [],
+    "venue": "Mahakavi Kalidas Natya Mandir",
+    "date": [
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/sangeet-sange-bahina-marathi-play-preview.asp"
+  },
+  {
+    "title": "SEVEN ELEVEN",
+    "language": "english",
+    "writer": [],
+    "director": [
+      "Sara Merchant"
+    ],
+    "cast": [
+      "Aadhar Agarwal",
+      "Shreya Surana",
+      "Yukti Verma",
+      "Sahil Lakhmani",
+      "Siddhant Jain"
+    ],
+    "artists": [],
+    "venue": "Chaubara by Veda Factory",
+    "date": [
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/seven-eleven-english-play-preview.asp"
+  },
+  {
+    "title": "KADDU",
+    "language": "hindi",
+    "writer": [
+      "Abhinay Parmar"
+    ],
+    "director": [
+      "Abhinay Parmar"
+    ],
+    "cast": [],
+    "artists": [],
+    "venue": "Third Bell Studios, Versova",
+    "date": [
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/kaddu-hindi-play-preview.asp"
+  },
+  {
     "title": "PATTE KHUL GAYE",
     "language": "hindi",
     "writer": [
@@ -1552,6 +1338,29 @@
       "29-08-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/patte-khul-gaye-hindi-play-preview.asp"
+  },
+  {
+    "title": "JEENE BHI DO YAARO",
+    "language": "hindi",
+    "writer": [
+      "Om Katare"
+    ],
+    "director": [
+      "Om Katare"
+    ],
+    "cast": [
+      "Om katare",
+      "Prashant Updhayay",
+      "Sailee Gaikwad",
+      "Kanupriya Sharma",
+      "Hitesh bhatia"
+    ],
+    "artists": [],
+    "venue": "NCPA Dance Theatre Godrej",
+    "date": [
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/06_preview_jeeney_bhi_do_yaaron.asp"
   },
   {
     "title": "YEH RAASTE HAIN PYAAR KE",
@@ -1593,6 +1402,57 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/surnai-yeh-raaste-hain-pyaar-ke-hindi-play-preview.asp"
   },
   {
+    "title": "TAKING SIDES",
+    "language": "english",
+    "writer": [
+      "Ronald Harwood"
+    ],
+    "director": [
+      "Atul Kumar"
+    ],
+    "cast": [
+      "Atul Kumar",
+      "Sukant Goel",
+      "Mallika Singh",
+      "Kashish Saluja",
+      "Kashin Shetty",
+      "Kenneth Desai",
+      "Richa Jain"
+    ],
+    "artists": [],
+    "venue": "Prithvi Theatre",
+    "date": [
+      "29-08-2026",
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/taking-sides-english-play-preview.asp"
+  },
+  {
+    "title": "HICH KHARI FAMILY CHI GAMMAT AHE",
+    "language": "marathi",
+    "writer": [
+      "Santosh Pawar"
+    ],
+    "director": [
+      "Santosh Pawar"
+    ],
+    "cast": [
+      "Santosh Pawar",
+      "Shalaka Pawar",
+      "Sagar Karande",
+      "Harshada Karve",
+      "Pratik Padhye",
+      "Vinisha Kulkarni",
+      "Rakesh Shalini"
+    ],
+    "artists": [],
+    "venue": "Shivaji Mandir",
+    "date": [
+      "29-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/hich-khari-family-chi-gammat-ahe-marathi-play-preview.asp"
+  },
+  {
     "title": "VARVARCHE VADHU VAR",
     "language": "marathi",
     "writer": [
@@ -1612,6 +1472,118 @@
       "29-08-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/marathi/varvarche-vadhu-var-marathi-play-preview.asp"
+  },
+  {
+    "title": "PAHILI LAGNACHI DUSARI PREMACHI",
+    "language": "marathi",
+    "writer": [
+      "Swapnil Bareskar"
+    ],
+    "director": [
+      "Santosh Pawar"
+    ],
+    "cast": [
+      "Bhau Kadam",
+      "Maithili Warang",
+      "Sajata Kiran",
+      "Poonam Sarode",
+      "Sakar Desai"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "30-08-2026",
+      "31-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/pahili-lagnachi-dusari-premachi-marathi-play-preview.asp"
+  },
+  {
+    "title": "A FAIR AFFAIR BY PRITESH SODHA",
+    "language": "hindi",
+    "writer": [
+      "Sameer Garud"
+    ],
+    "director": [
+      "Pritesh Sodha"
+    ],
+    "cast": [
+      "Piyush Ranade",
+      "Swapnil Ajgaonkar",
+      "Ranjana Srivastava",
+      "Jenifer Emmanuel"
+    ],
+    "artists": [],
+    "venue": "Chaubara by Veda Factory",
+    "date": [
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/a-fair-affair-by-pritesh-sodha-hindi-play-preview.asp"
+  },
+  {
+    "title": "HAI MERA DIL",
+    "language": "hindi",
+    "writer": [
+      "RANBIR SINH"
+    ],
+    "director": [
+      "Dinesh Thakur"
+    ],
+    "cast": [
+      "Priita Mathur Thakur",
+      "Aman Gupta",
+      "Shankar Iyer",
+      "Atul Mathur",
+      "Sumit Bhardwaj",
+      "Sneha Tripathi",
+      "Akshaansh Singh"
+    ],
+    "artists": [],
+    "venue": "NCPA Dance Theatre Godrej",
+    "date": [
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/30-hindi-play-preview-hai-mera-dil.asp"
+  },
+  {
+    "title": "FEVER DREAM",
+    "language": "english",
+    "writer": [
+      "Nayantara Nayar and Meghana AT"
+    ],
+    "director": [
+      "Meghana AT"
+    ],
+    "cast": [
+      "Irawati Karnik",
+      "Sukrit Mahajan",
+      "Siddhant Raj",
+      "with Mallika Shah and Vivek Madan"
+    ],
+    "artists": [],
+    "venue": "NMACC - THE CUBE",
+    "date": [
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/fever-dream-english-play-preview.asp"
+  },
+  {
+    "title": "MADHURI DIXIT",
+    "language": "gujarati",
+    "writer": [],
+    "director": [
+      "Swapnil Kharaskar"
+    ],
+    "cast": [
+      "Riddhi Nayak Shukla",
+      "Harshad Patel",
+      "Vyas Hemang and Neha Pakai"
+    ],
+    "artists": [],
+    "venue": "Aditya Birla Theatre, Mumbai",
+    "date": [
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/gujarati/madhuri-dixit-gujarati-play-preview.asp"
   },
   {
     "title": "EQUUS (PLAYHOUSE PRODUCTION)",
@@ -1640,6 +1612,47 @@
     "info": "https://www.mumbaitheatreguide.com/dramas/english/equus-playhouse-production-english-play-preview.asp"
   },
   {
+    "title": "SAALI POORI GHAR WAALI",
+    "language": "hindi",
+    "writer": [
+      "Naveen Bawa"
+    ],
+    "director": [
+      "Naveen Bawa"
+    ],
+    "cast": [
+      "Naveen Bawa",
+      "Yogesh H. Tripathi",
+      "Upasana Singh and Vidisha Srivastava"
+    ],
+    "artists": [],
+    "venue": "Rang Sharda",
+    "date": [
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/saali-poori-ghar-waali-hindi-play-preview.asp"
+  },
+  {
+    "title": "PREM KARAV PAN JAPUN",
+    "language": "marathi",
+    "writer": [],
+    "director": [
+      "Vishal-Dipesh"
+    ],
+    "cast": [
+      "Bhakti Tarlekar",
+      "Vishal Tambe",
+      "Sanket Shetge",
+      "Mrudula Kulkarni"
+    ],
+    "artists": [],
+    "venue": "Mahakavi Kalidas Natya Mandir",
+    "date": [
+      "30-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/prem-karav-pan-japun-marathi-play-preview.asp"
+  },
+  {
     "title": "IS THERE ROOM ON THE BROOM",
     "language": "english",
     "writer": [
@@ -1662,6 +1675,191 @@
       "30-08-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/english/is-there-room-on-the-broom-english-play-preview.asp"
+  },
+  {
+    "title": "BOROHOR MAR CHUKA HAI",
+    "language": "hindi",
+    "writer": [],
+    "director": [
+      "Gagan Shrivastava"
+    ],
+    "cast": [
+      "Das Mukti",
+      "Sanjay K Sahu",
+      "Jaihind Kumar"
+    ],
+    "artists": [],
+    "venue": "Rangshila Theatre",
+    "date": [
+      "31-08-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/borohor-mar-chuka-hai-hindi-play-preview.asp"
+  },
+  {
+    "title": "BHOOKE BHAJAN NA HOYE GOPALA",
+    "language": "hindi",
+    "writer": [
+      "Sagar Sarhadi"
+    ],
+    "director": [
+      "Ramesh Talwar"
+    ],
+    "cast": [
+      "Ramesh Talwar",
+      "Aanjjan Srivastav",
+      "Vikas Rawat",
+      "Prashant Padale",
+      "Shivkant Lakhanpal",
+      "Vikas Yadav",
+      "Akbar Khan",
+      "Prithvi Keshri",
+      "Priyall Ghore",
+      "Ravi Gupta.."
+    ],
+    "artists": [],
+    "venue": "Prithvi Theatre",
+    "date": [
+      "01-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/bhooke-bhajan-na-hoye-gopala-hindi-play-preview.asp"
+  },
+  {
+    "title": "THE APOLOGY",
+    "language": "hindi",
+    "writer": [
+      "Meghna Roy Choudhury"
+    ],
+    "director": [
+      "Meghna Roy Choudhury"
+    ],
+    "cast": [
+      "Hrishabh Kanti",
+      "Princy Sudhakaran",
+      "Snigdha Pious",
+      "Pranav Dandekar"
+    ],
+    "artists": [],
+    "venue": "NMACC - THE CUBE",
+    "date": [
+      "03-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/the-apology-hindi-play-preview.asp"
+  },
+  {
+    "title": "BHAKTI A SHARED LONGING",
+    "language": "other",
+    "writer": [],
+    "director": [
+      "Mayuri Upadhya and Nritarutya Dance Company"
+    ],
+    "cast": [
+      "Nritarutya Dance Company"
+    ],
+    "artists": [],
+    "venue": "Studio Theatre, Nita Mukesh Ambani Cultural Centre",
+    "date": [
+      "03-09-2026",
+      "04-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/other/bhakti-a-shared-longing-other-play-preview.asp"
+  },
+  {
+    "title": "MEZOK",
+    "language": "english",
+    "writer": [
+      "Jyoti Dogra"
+    ],
+    "director": [
+      "Jyoti Dogra"
+    ],
+    "cast": [
+      "Ambika Kamal",
+      "Jai Prakash Kumar",
+      "Naveen Kumar J",
+      "Pranshu Shrimali",
+      "Pranjal Vaid",
+      "Tsering Lhamo"
+    ],
+    "artists": [],
+    "venue": "Prithvi Theatre",
+    "date": [
+      "03-09-2026",
+      "04-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/mezok-english-play-preview.asp"
+  },
+  {
+    "title": "GAUHAR",
+    "language": "english",
+    "writer": [
+      "Mahesh Dattani",
+      "Vikram Sampath Ji"
+    ],
+    "director": [
+      "Lillete Dubey"
+    ],
+    "cast": [
+      "Girija Oak",
+      "Neena Kulkarni",
+      "Denzil Smith",
+      "Rajeev Siddhartha",
+      "Gillian Pinto",
+      "Aakanksha Kadre",
+      "Varun Narayan"
+    ],
+    "artists": [],
+    "venue": "Prithvi Theatre",
+    "date": [
+      "05-09-2026",
+      "06-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/english/gauhar-english-play-preview.asp"
+  },
+  {
+    "title": "HUM DONO",
+    "language": "hindi",
+    "writer": [
+      "Dinesh Thakur"
+    ],
+    "director": [
+      "Priita Mathur Thakur"
+    ],
+    "cast": [
+      "Prita Mathur Thakur",
+      "Aman Gupta"
+    ],
+    "artists": [],
+    "venue": "NCPA Dance Theatre Godrej",
+    "date": [
+      "05-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/hum-dono-hindi-play-preview.asp"
+  },
+  {
+    "title": "SAWAL-JAWAB",
+    "language": "marathi",
+    "writer": [
+      "Girish Datar",
+      "Apurva Kulkarni"
+    ],
+    "director": [
+      "Girish Datar",
+      "Apurva Kulkarni"
+    ],
+    "cast": [
+      "Sukanya Gurav",
+      "Sanket Joshi",
+      "Samadhan Ranshoor",
+      "Dhananjay Salunkhe",
+      "Kaustubh Deshpande",
+      "Sangita Mardoor"
+    ],
+    "artists": [],
+    "venue": "NCPA Experimental Theatre",
+    "date": [
+      "06-09-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/sawal-jawab-marathi-play-preview.asp"
   },
   {
     "title": "ABBA  - TRIBUTE SHOW",
@@ -1874,5 +2072,46 @@
       "04-10-2026"
     ],
     "info": "https://www.mumbaitheatreguide.com/dramas/hindi/sardar-by-viral-rachh-hindi-play-preview.asp"
+  },
+  {
+    "title": "MAHARASHTRA CHI GAURAV GATHA",
+    "language": "marathi",
+    "writer": [],
+    "director": [
+      "Dr Tushar Guha"
+    ],
+    "cast": [
+      "Tushar Guha"
+    ],
+    "artists": [],
+    "venue": null,
+    "date": [
+      "04-10-2026",
+      "05-10-2026",
+      "06-10-2026",
+      "07-10-2026",
+      "08-10-2026",
+      "09-10-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/marathi/maharashtra-chi-gaurav-gatha-marathi-play-preview.asp"
+  },
+  {
+    "title": "TRAASADI",
+    "language": "hindi",
+    "writer": [
+      "Manav Kaul"
+    ],
+    "director": [
+      "Manav Kaul"
+    ],
+    "cast": [
+      "Manav Kaul"
+    ],
+    "artists": [],
+    "venue": "NCPA Experimental Theatre",
+    "date": [
+      "15-10-2026"
+    ],
+    "info": "https://www.mumbaitheatreguide.com/dramas/hindi/traasadi-hindi-play-preview.asp"
   }
 ]
