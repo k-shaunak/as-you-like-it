@@ -40,6 +40,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to listings.json"
           else
-            git commit -m "Routin listings update"
+            git commit -m "Routine listings update"
             git push
           fi
